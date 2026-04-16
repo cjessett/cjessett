@@ -8,7 +8,7 @@ A weather tool for pilots, paragliders, hang gliders, and atmospheric enthusiast
 
 
 #### 🎧 [Narrate](https://github.com/cjessett/narrate)
-App that converts PDF and EPUB files to natural-sounding audio using AI TTS. Supports self-hosted Kokoro, OpenAI TTS, ElevenLabs, and Google Cloud TTS — switch providers by changing a single env var.
+Convert PDF and EPUB files to natural-sounding audio using AI TTS. Supports self-hosted Kokoro, OpenAI TTS, ElevenLabs, and Google Cloud TTS — switch providers by changing a single env var.
 
 
 #### 💵 [War Spending](http://cjessett.com/war-spending/)
