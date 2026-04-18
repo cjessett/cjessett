@@ -4,7 +4,7 @@
 ---
 
 #### 🌤️ [Lapse Rate](https://cjessett.com/lapse-rate)
-A weather tool for pilots, paragliders, hang gliders, and atmospheric enthusiasts that computes the environmental lapse rate from the surface up to 5,000 ft MSL using real-time forecast data from Open-Meteo. 
+A weather tool for pilots, paragliders, hang gliders, and atmospheric enthusiasts that computes the environmental lapse rate using real-time forecast data from Open-Meteo. 
 
 
 #### 🎧 [Narrate](https://github.com/cjessett/narrate)
